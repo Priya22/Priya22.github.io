@@ -1,140 +1,106 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://priya22.github.io/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://priya22.github.io/publication-type/1/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://priya22.github.io/authors/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://priya22.github.io/author/hammond-a/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://priya22.github.io/author/hirst-g/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://priya22.github.io/publication_types/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://priya22.github.io/publication/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://priya22.github.io/publication/pdnc-lrec/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://priya22.github.io/publication/tusc/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://priya22.github.io/author/vishnubhotla-k/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://priya22.github.io/publication/dh2022/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://priya22.github.io/author/abdalla-m/</loc>
+    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://priya22.github.io/publication/semrel/</loc>
+    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://priya22.github.io/publication/disen/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://priya22.github.io/author/rudzicz-f/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://priya22.github.io/publication/dh2020_attribution/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://priya22.github.io/author/vishnubhotla-k/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://priya22.github.io/publication-type/4/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://priya22.github.io/publication/msc_thesis/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://priya22.github.io/publication/clfl_fictional/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://priya22.github.io/author/budhkar-a/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://priya22.github.io/publication/repl4nlp_gan/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://priya22.github.io/author/hossain-s/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://priya22.github.io/author/krishnapriya-vishnubhotla/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://priya22.github.io/author/rudzicz-f/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://priya22.github.io/author/jeblee-s/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://priya22.github.io/author/milic-s/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://priya22.github.io/author/pinto-j/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://priya22.github.io/author/pou-prom-c/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://priya22.github.io/publication/clef/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://priya22.github.io/publication/domain_adap/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://priya22.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://priya22.github.io/author/krishnapriya-vishnubhotla/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://priya22.github.io/author/mohammad-s.-m./</loc>
+  </url><url>
+    <loc>https://priya22.github.io/author/mohammad-s.m./</loc>
+  </url><url>
     <loc>https://priya22.github.io/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://priya22.github.io/talk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://priya22.github.io/tags/</loc>
   </url>
-  
 </urlset>

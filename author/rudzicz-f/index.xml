@@ -5,12 +5,20 @@
     <link>https://priya22.github.io/author/rudzicz-f/</link>
       <atom:link href="https://priya22.github.io/author/rudzicz-f/index.xml" rel="self" type="application/rss+xml" />
     <description>Rudzicz F</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://priya22.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://priya22.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Rudzicz F</title>
       <link>https://priya22.github.io/author/rudzicz-f/</link>
     </image>
+    
+    <item>
+      <title>An Evaluation of Disentangled Representation Learning for Texts</title>
+      <link>https://priya22.github.io/publication/disen/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://priya22.github.io/publication/disen/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Generative Adversarial Networks for Text Using Word2vec Intermediaries. </title>
